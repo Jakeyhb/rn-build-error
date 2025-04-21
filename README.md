@@ -1,0 +1,1 @@
+# rn-build-error
